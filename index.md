@@ -1,4 +1,4 @@
-﻿# Project Name/Title Goes Here
+﻿# Unity 3D Fighting Game
 I am making a 3D fighting game in Unity.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -18,7 +18,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
-
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+For my first milestone I made a character for my game. I added the animations for my character than imported him to a Unitity 3D project. I then coded movment abilities for my character. I made fighting mechanics for my character by creating offensive and devensive animations then coding them into the game. Once I was finished with player 1 it was time to start on player 2. Player 2 was a lot easier to make than player 1 because I already made most of the mechanics in player 1. 
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
