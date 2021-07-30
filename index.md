@@ -3,7 +3,7 @@ I am making a 3D fighting game in Unity.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Austen Downey | Browning | Electrical/Software Engineering | Incoming Freshmen 
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
