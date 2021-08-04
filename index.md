@@ -21,3 +21,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 For my first milestone I made a character for my game. I added the animations for my character than imported him to a Unitity 3D project. I then coded movment abilities for my character. I made fighting mechanics for my character by creating offensive and devensive animations then coding them into the game. Once I was finished with player 1 it was time to start on player 2. Player 2 was a lot easier to make than player 1 because I already made most of the mechanics in player 1. 
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+# Character
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/88197067/128192517-3516dcad-cafe-4bc8-8efd-9650616c9dc8.gif)
