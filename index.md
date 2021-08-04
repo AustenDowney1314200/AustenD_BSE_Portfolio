@@ -24,3 +24,5 @@ For my first milestone I made a character for my game. I added the animations fo
 # Character
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88197067/128192517-3516dcad-cafe-4bc8-8efd-9650616c9dc8.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/88197067/128192937-34e16dd2-4422-406c-98dc-78498e1d7a5f.gif)
+
