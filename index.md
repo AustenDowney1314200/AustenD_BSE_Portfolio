@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Second Milestone]
 
 # First Milestone
-For my first milestone I made a character for my game in Blender. Blender is a free software that makes 3d modles and animations. I created a swordsman that consisted of multible edited cubes.
+For my first milestone I made a character for my game in Blender. Blender is a free software that makes 3d modles and animations. I created a swordsman that consisted of multible edited cubes. I then put in an exoskeleton 
 
 [![First Milestone]
 
