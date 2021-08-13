@@ -20,7 +20,7 @@ For my first milestone I made a character for my game in Blender. Blender is a f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yAgt9f4GZ9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Reflection
-
+I really enjoyed game dev
 
 # Character
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88197067/128192517-3516dcad-cafe-4bc8-8efd-9650616c9dc8.gif)
