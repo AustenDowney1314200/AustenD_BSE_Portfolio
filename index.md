@@ -7,6 +7,8 @@ I am making a 3D fighting game in Unity.
 
 ![Headstone Image]
 
+# Presentation
+
 # Second Milestone
 My second milestone mostly consisted of coding. I ran into many errors but none of them lasted too long. The first thing that I did in the second milestone was make movment. I made multible diffrent movment scripts but i kept on needing to delete them because they didnt do everything that I wanted them to. Once I finaly got the right code I needed to start on combining my animations to my movment. I would say that combining my animations to my movment was the most difficult part of my project. I needed to make an intirely diffrent movment code just so the the animations would work with the movment. Whenever I tried to combine the animation code with my movement code i previosly had, an error message would pop up. After I got the movment and animation code working together I dicided to make my terrain look more presentable.
 
@@ -16,6 +18,9 @@ My second milestone mostly consisted of coding. I ran into many errors but none 
 For my first milestone I made a character for my game in Blender. Blender is a free software that makes 3d modles and animations. I created a swordsman that consisted of multible edited cubes. I then put an exoskeleton in my character to be able to create animations for my character. To animate my caracter I needed to create keyframes. Keyframes are basicaly specific frames that show your character posing in diffrent positions. After I created my character and the animations for my character, I exported it in an fbx file to unity. Then it was time to move to my second mile stone.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yAgt9f4GZ9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Reflection
+
 
 # Character
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88197067/128192517-3516dcad-cafe-4bc8-8efd-9650616c9dc8.gif)
