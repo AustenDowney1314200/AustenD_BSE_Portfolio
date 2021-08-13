@@ -3,7 +3,7 @@ I am making a 3D fighting game in Unity.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Austen D | Browning | Electrical/Software Engineering | Incoming Freshmen 
+| Austen D | Browning | Electrical/Software Engineering | 9th 
 
 ![Headstone Image]
 
