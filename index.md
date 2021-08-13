@@ -8,7 +8,7 @@ I am making a 3D fighting game in Unity.
 ![Headstone Image]
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone mostly consisted of coding. I ran into many errors but none of them lasted too long. The first thing that I did in the second milestone was make movment. I made multible diffrent movment scripts but i kept on needing to delete them because they didnt do everything that I wanted them to. Once I finaly got the right code I needed to start on combining my animations to my movment. I would say that combining my animations to my movment was the most difficult part of my project. I needed to make an intirely diffrent movment code just so the the animations would work with the movment. Whenever I tried to combine the animation code with my movement code i previosly had, an error message would pop up. After I got the movment and animation code working together I dicided to make my terrain look more presentable.
 
 [![Second Milestone]
 
