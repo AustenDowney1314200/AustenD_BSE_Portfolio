@@ -8,6 +8,7 @@ I am making a 3D fighting game in Unity.
 ![Headstone Image]
 
 # Presentation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V6Q-Igty3Uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 My second milestone mostly consisted of coding. I ran into many errors but none of them lasted too long. The first thing that I did in the second milestone was make movment. I made multible diffrent movment scripts but i kept on needing to delete them because they didnt do everything that I wanted them to. Once I finaly got the right code I needed to start on combining my animations to my movment. I would say that combining my animations to my movment was the most difficult part of my project. I needed to make an intirely diffrent movment code just so the the animations would work with the movment. Whenever I tried to combine the animation code with my movement code i previosly had, an error message would pop up. After I got the movment and animation code working together I dicided to make my terrain look more presentable.
