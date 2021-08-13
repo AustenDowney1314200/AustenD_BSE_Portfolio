@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Second Milestone]
 
 # First Milestone
-For my first milestone I made a character for my game in Blender. Blender is a free software that makes 3d modles and animations. I created a swordsman that consisted of multible edited cubes. I then put in an exoskeleton 
+For my first milestone I made a character for my game in Blender. Blender is a free software that makes 3d modles and animations. I created a swordsman that consisted of multible edited cubes. I then put an exoskeleton in my character to be able to create animations for my character. To animate my caracter I needed to create keyframes. Keyframes are basicaly specific frames that show your character posing in diffrent positions. After I created my character and the animations for my character, I exported it in an fbx file to unity. Then it was time to move to my second mile stone.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yAgt9f4GZ9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
