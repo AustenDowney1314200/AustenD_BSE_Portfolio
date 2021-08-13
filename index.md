@@ -21,7 +21,7 @@ For my first milestone I made a character for my game in Blender. Blender is a f
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/88197067/128192517-3516dcad-cafe-4bc8-8efd-9650616c9dc8.gif)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/88197067/128192937-34e16dd2-4422-406c-98dc-78498e1d7a5f.gif)
 
-# Movment Code
+# Animation Code
 ```c#
 using System.Collections;
 using System.Collections.Generic;
@@ -144,3 +144,61 @@ public class Move : MonoBehaviour
 }
 ```
 
+# Movment Code
+```c#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Movement2 : MonoBehaviour
+{
+    public CharacterController controller;
+    public Transform cam;
+    Animator animator;
+    public float speed = 12f;
+    bool isMovementPressed;
+    PlayerInput playerInput;
+    Vector2 currentMovementInput;
+    Vector3 currentMovement;
+
+
+    public float turnSmoothTime = 0.1f;
+    float turnSmoothVelocity;
+    // Update is called once per frame
+    void Update()
+    {
+        float horizontal = Input.GetAxisRaw("Horizontal");
+        float vertical = Input.GetAxisRaw("Vertical");
+        Vector3 direction = new Vector3(horizontal, 0f, vertical).normalized;
+        animator = GetComponent<Animator>();
+
+
+        if (direction.magnitude >= 0.1f)
+        {
+            float targetAngle = Mathf.Atan2(-direction.x, -direction.z) * Mathf.Rad2Deg + cam.eulerAngles.y;
+            float angle = Mathf.SmoothDampAngle(transform.eulerAngles.y, targetAngle, ref turnSmoothVelocity, turnSmoothTime);
+            transform.rotation = Quaternion.Euler(0f, angle, 0f);
+
+            Vector3 moveDir = Quaternion.Euler(0f, targetAngle, 0f) * Vector3.forward;
+            controller.Move(-moveDir.normalized * speed * Time.deltaTime);
+
+        }
+    }
+
+    void handleAnimation()
+    {
+        // bool isWalking = animator.GetBool("isWalking");
+        bool isRunning = animator.GetBool("isRunning");
+
+        if (isMovementPressed && !isRunning)
+        {
+            animator.SetBool("isRunning", true);
+        }
+
+        else if (!isMovementPressed && isRunning)
+        {
+            animator.SetBool("isRunning", false);
+        }
+    }
+}
+```
